@@ -5,7 +5,7 @@ Setup :
 
     Paste movport.py and proxy.config file in your movies folder .
     
-    Do ensure that only folders/movies have relevant names .
+    Do ensure that only folders/movies with relevant names are present in main folder .
     
     Edit your proxy.config file accordingly.
     
